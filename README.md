@@ -2,3 +2,5 @@
 
 # unoriginal
 A simple datapack that removes all base origins added by the Origins mod
+
+- https://modrinth.com/datapack/unoriginal
