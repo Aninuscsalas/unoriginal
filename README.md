@@ -4,3 +4,4 @@
 A simple datapack that removes all base origins added by the Origins mod
 
 - https://modrinth.com/datapack/unoriginal
+- https://www.curseforge.com/minecraft/mc-mods/unoriginal
